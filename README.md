@@ -1,12 +1,12 @@
 ### Hey / Привет 👋
 
-My name is Vladimir (or _Вова_) and I'm a lead developer at [@evilmartians](https://github.com/evilmartians).
+My name is Vladimir (or _Вова_), and I'm a lead developer at [@evilmartians](https://github.com/evilmartians).
 
 I'm currently working on:
 
 - Making real-time Ruby apps rock with [@anycable](https://github.com/anycable) (built with Ruby and Go).
 - Bringing edge Ruby features to all Rubies with [@ruby-next](https://github.com/ruby-next)—a transpiler for Ruby.
-- Helping Ruby devs to write faster test with [test-prof](https://github.com/palkan/test-prof).
+- Helping Ruby devs to write faster tests with [test-prof](https://github.com/palkan/test-prof).
 - ...and other projects, such as: [Action Policy](https://github.com/palkan/action_policy), [Logidze](https://github.com/palkan/logidze), [Anyway Config](https://github.com/palkan/anyway_config) and many more.
 
 Check out some of my blog posts:
