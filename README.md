@@ -1,6 +1,6 @@
 ### Hey / Привет 👋
 
-My name is Vladimir (or _Вова_), and I'm a lead developer at [@evilmartians](https://github.com/evilmartians).
+My name is Vladimir (or _Вова_), and I'm a principal backend engineer at [@evilmartians](https://github.com/evilmartians).
 
 I'm currently working on:
 
