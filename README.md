@@ -12,6 +12,7 @@ I'm currently working on:
 Check out some of my blog posts:
 
 - [Hotwire: Reactive Rails with no JavaScript?](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
+- [Real-time stress: AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-time-stress-anycable-k6-websockets-and-yabeda)
 - [Ruby on Whales: Dockerizing Ruby and Rails development](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
 - [System of a test: Proper browser testing in Ruby on Rails](https://evilmartians.com/chronicles/system-of-a-test-setting-up-end-to-end-rails-testing)
 - [Anyway Config: Keep your Ruby configuration sane](https://evilmartians.com/chronicles/anyway-config-keep-your-ruby-configuration-sane)
