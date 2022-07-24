@@ -20,10 +20,11 @@ Check out some of my blog posts:
 
 ...and conference talks:
 
-- [Frontendless Rails Frontend](https://noti.st/palkan/eVl0xO/frontendless-rails-frontend)
-- [Between monoliths and microservices](https://noti.st/palkan/VWPOSd/between-monoliths-and-microservices) (component-based architecture using Rails Engines)
-- [Ruby Next: Make old Rubies quack like a new one](https://noti.st/palkan/j3i2Dr/ruby-next-make-old-rubies-quack-like-a-new-one)
-- [Terraforming legacy Rails applications](https://noti.st/palkan/vhsbxO/terraforming-legacy-rails-applications)
-- [High-speed cables for Ruby](https://noti.st/palkan/Y1bPpn/high-speed-cables-for-ruby)
-- [99 problems of slow tests](https://noti.st/palkan/mf31ab/99-problems-of-slow-tests)
+- [The pitfalls of real-time-ification](https://noti.st/palkan/MeBUVe/the-pitfalls-of-realtime-ification) (RailsConf 2022)
+- [Frontendless Rails Frontend](https://noti.st/palkan/eVl0xO/frontendless-rails-frontend) (RailsConf 2021)
+- [Between monoliths and microservices](https://noti.st/palkan/VWPOSd/between-monoliths-and-microservices) (RailsConf 2020, component-based architecture using Rails Engines)
+- [Ruby Next: Make old Rubies quack like a new one](https://noti.st/palkan/j3i2Dr/ruby-next-make-old-rubies-quack-like-a-new-one) (RubyConf 2019)
+- [Terraforming legacy Rails applications](https://noti.st/palkan/vhsbxO/terraforming-legacy-rails-applications) (RailsConf 2019)
+- [High-speed cables for Ruby](https://noti.st/palkan/Y1bPpn/high-speed-cables-for-ruby) (RubyConf 2018)
+- [99 problems of slow tests](https://noti.st/palkan/mf31ab/99-problems-of-slow-tests) (Paris.rb 2018)
 
