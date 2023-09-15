@@ -2,6 +2,8 @@
 
 My name is Vladimir (or _Вова_), and I'm a principal backend engineer at [@evilmartians](https://github.com/evilmartians).
 
+> 📕 My book "Layered design for Ruby on Rails applications" is avalable now: [Amazon](https://packt.link/97LoK) | [Packt](https://www.packtpub.com/product/layered-design-for-ruby-on-rails-applications/9781801813785)
+
 I'm currently working on:
 
 - Making real-time Ruby apps rock with [@anycable](https://github.com/anycable) (built with Ruby and Go).
@@ -20,6 +22,7 @@ Check out some of my blog posts:
 
 ...and conference talks:
 
+- [Rails as a piece of birthday cake](https://evilmartians.com/events/rails-as-a-piece-of-birthday-cake)
 - [The pitfalls of real-time-ification](https://noti.st/palkan/MeBUVe/the-pitfalls-of-realtime-ification) (RailsConf 2022)
 - [Weaving and seaming mocks](https://noti.st/palkan/jWy57U/weaving-seaming-mocks) (RubyConf 2022)
 - [Frontendless Rails Frontend](https://noti.st/palkan/eVl0xO/frontendless-rails-frontend) (RailsConf 2021)
