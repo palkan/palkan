@@ -4,16 +4,16 @@ My name is Vladimir (or _Вова_), and I'm a principal backend engineer at [@e
 
 > 📕 My book "Layered design for Ruby on Rails applications" is avalable now: [Amazon](https://packt.link/97LoK) | [Packt](https://www.packtpub.com/product/layered-design-for-ruby-on-rails-applications/9781801813785)
 
-I'm currently working on:
+I'm working on:
 
-- Making real-time Ruby apps rock with [@anycable](https://github.com/anycable) (built with Ruby and Go).
+- Making real-time apps rock with [@anycable](https://github.com/anycable) (built with Ruby and Go).
 - Bringing edge Ruby features to all Rubies with [@ruby-next](https://github.com/ruby-next)—a transpiler for Ruby.
 - Helping Ruby devs to write faster tests with [test-prof](https://github.com/palkan/test-prof).
 - ...and other projects, such as: [Action Policy](https://github.com/palkan/action_policy), [Logidze](https://github.com/palkan/logidze), [Anyway Config](https://github.com/palkan/anyway_config) and many more.
 
 Check out some of my blog posts:
 
-- [Hotwire: Reactive Rails with no JavaScript?](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
+- [The future of full-stack Rails](https://evilmartians.com/chronicles/the-future-of-full-stack-rails-turbo-morph-drive)
 - [Real-time stress: AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-time-stress-anycable-k6-websockets-and-yabeda)
 - [Ruby on Whales: Dockerizing Ruby and Rails development](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
 - [System of a test: Proper browser testing in Ruby on Rails](https://evilmartians.com/chronicles/system-of-a-test-setting-up-end-to-end-rails-testing)
@@ -31,4 +31,3 @@ Check out some of my blog posts:
 - [Terraforming legacy Rails applications](https://noti.st/palkan/vhsbxO/terraforming-legacy-rails-applications) (RailsConf 2019)
 - [High-speed cables for Ruby](https://noti.st/palkan/Y1bPpn/high-speed-cables-for-ruby) (RubyConf 2018)
 - [99 problems of slow tests](https://noti.st/palkan/mf31ab/99-problems-of-slow-tests) (Paris.rb 2018)
-
