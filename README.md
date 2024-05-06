@@ -22,6 +22,7 @@ Check out some of my blog posts:
 
 ...and conference talks:
 
+- [Rails on Wasm](https://noti.st/palkan/UB05kn/rails-on-wasm)
 - [Rails as a piece of birthday cake](https://evilmartians.com/events/rails-as-a-piece-of-birthday-cake)
 - [The pitfalls of real-time-ification](https://noti.st/palkan/MeBUVe/the-pitfalls-of-realtime-ification) (RailsConf 2022)
 - [Weaving and seaming mocks](https://noti.st/palkan/jWy57U/weaving-seaming-mocks) (RubyConf 2022)
