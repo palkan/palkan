@@ -22,8 +22,10 @@ Check out some of my blog posts:
 
 ...and conference talks:
 
-- [Rails on Wasm](https://noti.st/palkan/UB05kn/rails-on-wasm)
-- [Rails as a piece of birthday cake](https://evilmartians.com/events/rails-as-a-piece-of-birthday-cake)
+- [Ruby Mixology 101: adding shots of PHP, Elixir, and more](https://noti.st/palkan/SmcGzH/ruby-mixology-101-adding-shots-of-php-elixir-and-more) (RubyKaigi 2024)
+- [Rails on Wasm](https://noti.st/palkan/UB05kn/rails-on-wasm) (SF Ruby 2024)
+  [Profiling tests with Swiss precision](https://noti.st/palkan/hynbLw/profiling-ruby-tests-with-swiss-precision) (Helvetic Ruby 2023)
+- [Rails as a piece of birthday cake](https://evilmartians.com/events/rails-as-a-piece-of-birthday-cake) (RailsConf 2023)
 - [The pitfalls of real-time-ification](https://noti.st/palkan/MeBUVe/the-pitfalls-of-realtime-ification) (RailsConf 2022)
 - [Weaving and seaming mocks](https://noti.st/palkan/jWy57U/weaving-seaming-mocks) (RubyConf 2022)
 - [Frontendless Rails Frontend](https://noti.st/palkan/eVl0xO/frontendless-rails-frontend) (RailsConf 2021)
@@ -31,4 +33,3 @@ Check out some of my blog posts:
 - [Ruby Next: Make old Rubies quack like a new one](https://noti.st/palkan/j3i2Dr/ruby-next-make-old-rubies-quack-like-a-new-one) (RubyConf 2019)
 - [Terraforming legacy Rails applications](https://noti.st/palkan/vhsbxO/terraforming-legacy-rails-applications) (RailsConf 2019)
 - [High-speed cables for Ruby](https://noti.st/palkan/Y1bPpn/high-speed-cables-for-ruby) (RubyConf 2018)
-- [99 problems of slow tests](https://noti.st/palkan/mf31ab/99-problems-of-slow-tests) (Paris.rb 2018)
