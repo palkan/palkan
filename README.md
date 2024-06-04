@@ -1,6 +1,6 @@
 ### Hey / Привет 👋
 
-My name is Vladimir (or _Вова_), and I'm a principal backend engineer at [@evilmartians](https://github.com/evilmartians).
+My name is Vladimir (or _Вова_ `/ˈvo.və/`), and I'm a principal backend engineer at [@evilmartians](https://github.com/evilmartians).
 
 > 📕 My book "Layered design for Ruby on Rails applications" is avalable now: [Amazon](https://packt.link/97LoK) | [Packt](https://www.packtpub.com/product/layered-design-for-ruby-on-rails-applications/9781801813785)
 
