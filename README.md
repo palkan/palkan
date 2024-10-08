@@ -9,6 +9,7 @@ I'm working on:
 - Making real-time apps rock with [@anycable](https://github.com/anycable) (built with Ruby and Go).
 - Bringing edge Ruby features to all Rubies with [@ruby-next](https://github.com/ruby-next)—a transpiler for Ruby.
 - Helping Ruby devs to write faster tests with [test-prof](https://github.com/palkan/test-prof).
+- Expanding the boundaries of Ruby on Rails by pushing it closer to the browser via [Rails on Wasm](https://writebook-on-wasm.fly.dev/).
 - ...and other projects, such as: [Action Policy](https://github.com/palkan/action_policy), [Logidze](https://github.com/palkan/logidze), [Anyway Config](https://github.com/palkan/anyway_config) and many more.
 
 Check out some of my blog posts:
