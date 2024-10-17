@@ -1,4 +1,4 @@
-### Hey / Привет 👋
+### Hey / Привет / やあ 👋
 
 My name is Vladimir (or _Вова_ `/ˈvo.və/`, or ヴォーヴァ), and I'm a principal backend engineer at [@evilmartians](https://github.com/evilmartians).
 
@@ -25,7 +25,7 @@ Check out some of my blog posts:
 
 - [Ruby Mixology 101: adding shots of PHP, Elixir, and more](https://noti.st/palkan/SmcGzH/ruby-mixology-101-adding-shots-of-php-elixir-and-more) (RubyKaigi 2024)
 - [Rails on Wasm](https://noti.st/palkan/UB05kn/rails-on-wasm) (SF Ruby 2024)
-  [Profiling tests with Swiss precision](https://noti.st/palkan/hynbLw/profiling-ruby-tests-with-swiss-precision) (Helvetic Ruby 2023)
+- [Profiling tests with Swiss precision](https://noti.st/palkan/hynbLw/profiling-ruby-tests-with-swiss-precision) (Helvetic Ruby 2023)
 - [Rails as a piece of birthday cake](https://evilmartians.com/events/rails-as-a-piece-of-birthday-cake) (RailsConf 2023)
 - [The pitfalls of real-time-ification](https://noti.st/palkan/MeBUVe/the-pitfalls-of-realtime-ification) (RailsConf 2022)
 - [Weaving and seaming mocks](https://noti.st/palkan/jWy57U/weaving-seaming-mocks) (RubyConf 2022)
