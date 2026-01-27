@@ -2,7 +2,7 @@
 
 My name is Vladimir (or _Вова_ `/ˈvo.və/`, or ヴォーヴァ), and I'm a principal backend engineer at [@evilmartians](https://github.com/evilmartians).
 
-> 📕 My book "Layered design for Ruby on Rails applications" is avalable now: [Amazon](https://packt.link/97LoK) | [Packt](https://www.packtpub.com/product/layered-design-for-ruby-on-rails-applications/9781801813785)
+> 📕 The 2nd edition of "Layered design for Ruby on Rails applications" is avalable now: [Amazon](https://www.amazon.com/Layered-Design-Ruby-Rails-Applications/dp/1806114232) | [Packt](https://www.packtpub.com/product/layered-design-for-ruby-on-rails-applications/9781801813785) | [На русском языке](https://dmkpress.com/catalog/computer/web/978-5-93700-426/)
 
 I'm working on:
 
@@ -12,8 +12,11 @@ I'm working on:
 - Expanding the boundaries of Ruby on Rails by pushing it closer to the browser via [Rails on Wasm](https://writebook-on-wasm.fly.dev/).
 - ...and other projects, such as: [Action Policy](https://github.com/palkan/action_policy), [Logidze](https://github.com/palkan/logidze), [Anyway Config](https://github.com/palkan/anyway_config) and many more.
 
+---
+
 Check out some of my blog posts:
 
+- [AnyCable, Rails, and the pitfalls of LLM-streaming](https://evilmartians.com/chronicles/anycable-rails-and-the-pitfalls-of-llm-streaming)
 - [The future of full-stack Rails](https://evilmartians.com/chronicles/the-future-of-full-stack-rails-turbo-morph-drive)
 - [Real-time stress: AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-time-stress-anycable-k6-websockets-and-yabeda)
 - [Ruby on Whales: Dockerizing Ruby and Rails development](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
@@ -23,8 +26,9 @@ Check out some of my blog posts:
 
 ...and conference talks:
 
+- [Rails X](https://evilmartians.com/events/vladimir-dementyev-keynote-sf-ruby-conference) (SF Ruby 2025)
 - [Ruby Mixology 101: adding shots of PHP, Elixir, and more](https://noti.st/palkan/SmcGzH/ruby-mixology-101-adding-shots-of-php-elixir-and-more) (RubyKaigi 2024)
-- [Rails on Wasm](https://noti.st/palkan/UB05kn/rails-on-wasm) (SF Ruby 2024)
+- [From Server to Client: Ruby on Rails on WebAssembly]([https://noti.st/palkan/UB05kn/rails-on-wasm](https://evilmartians.com/events/from-server-to-client-ruby-on-rails-on-webassembly-wasmcon-2024)) (WasmCon 2024)
 - [Profiling tests with Swiss precision](https://noti.st/palkan/hynbLw/profiling-ruby-tests-with-swiss-precision) (Helvetic Ruby 2023)
 - [Rails as a piece of birthday cake](https://evilmartians.com/events/rails-as-a-piece-of-birthday-cake) (RailsConf 2023)
 - [The pitfalls of real-time-ification](https://noti.st/palkan/MeBUVe/the-pitfalls-of-realtime-ification) (RailsConf 2022)
